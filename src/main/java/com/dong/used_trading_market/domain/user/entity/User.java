@@ -51,5 +51,5 @@ public class User {
     @Column(nullable = false)
     private LocalDateTime modifyDate;
 
-    private Long imageNo;
+    private Long profileImageNo;
 }
